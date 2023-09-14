@@ -1,7 +1,5 @@
 
-![Untitled](https://github.com/LouisPino/LouisPino/assets/130365689/d9769ea4-1fb5-481e-9b74-941843ef8460)
-
-
+[Untitled.pdf](https://github.com/LouisPino/LouisPino/files/12612085/Untitled.pdf)
 
 
 
