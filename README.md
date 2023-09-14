@@ -1,5 +1,5 @@
-![Screenshot 2023-09-14 at 2 05 50 PM](https://github.com/LouisPino/LouisPino/assets/130365689/afcdc8a7-4cb2-4c91-b435-0f4691a7319b)
 
+![Untitled](https://github.com/LouisPino/LouisPino/assets/130365689/d9769ea4-1fb5-481e-9b74-941843ef8460)
 
 
 
