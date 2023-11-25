@@ -51,19 +51,19 @@
 <td width="400" align="center">
 <h2><a href="https://github.com/LouisPino/audition-asssistant">Audition Assistant</a></h2>
   <p>Your all in one practice helper</p></p>
-  <img src="https://user-images.githubusercontent.com/130365689/271838718-b0012ea2-b45c-42ab-9496-94c7245af18b.png" title="Material UI" alt="Material UI" width="120" height="120"/>
+  <img src="https://user-images.githubusercontent.com/130365689/271838718-b0012ea2-b45c-42ab-9496-94c7245af18b.png" title="Audition Assistant" alt="Audition Assistant" width="120" height="120"/>
   <p>Python, Django, PostGreSQL, React</p>
 </td>
 <td width="400" align="center">
   <h2><a href="https://github.com/LouisPino/kindr">Kindr</a></h2>
 <p>Just a bunch of do-gooders doing good!</p></p>
-  <img src="https://res.cloudinary.com/dsvcyich1/image/upload/v1694717498/Screenshot_2023-09-14_at_2.51.32_PM_tuvzhz.png" title="Material UI" alt="Material UI" width="120" height="120"/>
+  <img src="https://res.cloudinary.com/dsvcyich1/image/upload/v1694717498/Screenshot_2023-09-14_at_2.51.32_PM_tuvzhz.png" title="Kindr" alt="Kindr" width="120" height="120"/>
   <p>React, Express, Node, MongoDB, OpenAIAPI</p>
 </td>
 <td width="400" align="center">
   <h2><a href="https://github.com/LouisPino/bat-buster">Bat Buster</a></h2>
 <p>Let's bust some bats!</p></p>
-  <img src="https://user-images.githubusercontent.com/130365689/256623709-85b8ca5c-4d9e-4b58-8ade-595749066feb.png" title="Material UI" alt="Material UI" width="120" height="120"/>
+  <img src="https://user-images.githubusercontent.com/130365689/256623709-85b8ca5c-4d9e-4b58-8ade-595749066feb.png" title="Bat Buster" alt="Bat Buster" width="120" height="120"/>
   <p>JavaScript, HTML, CSS</p>
 </td>
 </tr>
