@@ -27,9 +27,9 @@ Full Stack Developer
 * 🌍  I'm based in Toronto
 * 🖥️  Check out [My Portfolio](http://www.louispino.com)
 * ✉️  You can contact me at [ljpino95@gmail.com](mailto:ljpino95@gmail.com)
-* 💪 Currently working on 🗺️[Choose Your Own Adventure](https://github.com/LouisPino/cyoa-piece), 💥[Super Smash Duet](https://github.com/LouisPino/n64-button-tracker) and 🛸[UFO Map](https://github.com/LouisPino/ufo-map)
+* 💪 Currently working on [Choose Your Own Adventure](https://github.com/LouisPino/cyoa-piece)🗺️, [Super Smash Duet](https://github.com/LouisPino/n64-button-tracker)💥 and [UFO Map](https://github.com/LouisPino/ufo-map)🛸
 * 🧠  I'm currently learning and practicing data science while completing [CS50](https://cs50.harvard.edu/x/2023/)
-* ✅  Recent projects include 🎶[Audition Assistant](https://github.com/LouisPino/audition-asssistant), 😇[Kindr](https://github.com/LouisPino/kindr), and 🦇[Bat Buster](https://github.com/LouisPino/bat-buster)
+* ✅  Recent projects include [Audition Assistant](https://github.com/LouisPino/audition-asssistant)🎶, [Kindr](https://github.com/LouisPino/kindr)😇, and [Bat Buster]🦇(https://github.com/LouisPino/bat-buster)
 
 
 <!--
