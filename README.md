@@ -19,9 +19,9 @@
 --->
 <div align="center">
 <p> 🍁  Based in Toronto, Ontario, Canada</p>
-<p>🖼️  Check out <a href="http://www.louispino.com">My Portfolio</a></p>
+<p> 🖼️  Check out <a href="http://www.louispino.com">My Portfolio</a></p>
 <p> ✉️  Send me an email at <a href="mailto:ljpino95@gmail.com">ljpino95@gmail.com</a></p>
-<p> ✍ Currently working on <a href="https://github.com/LouisPino/cyoa-piece">Choose Your Own Adventure</a>🗺️, <a href="https://github.com/LouisPino/n64-button-tracker">Super Smash Duet</a>💥 and <a href="https://github.com/LouisPino/ufo-map">UFO Map</a>🛸</p>
+<p> ✍  Currently working on <a href="https://github.com/LouisPino/cyoa-piece">Choose Your Own Adventure</a>🗺️, <a href="https://github.com/LouisPino/n64-button-tracker">Super Smash Duet</a>💥 and <a href="https://github.com/LouisPino/ufo-map">UFO Map</a>🛸</p>
 <p> 💪  Currently learning and practicing data science and completing <a href="https://cs50.harvard.edu/x/2023/">CS50</a></p>
 </div>
 
