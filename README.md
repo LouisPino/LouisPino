@@ -51,7 +51,7 @@
 <td width="400" align="center">
 <h2><a href="https://github.com/LouisPino/audition-assistant">Audition Assistant</a></h2>
   <p>Your all in one practice helper</p></p>
-  <a href="https://github.com/LouisPino/audition-asssistant">
+  <a href="https://github.com/LouisPino/audition-assistant">
   <img src="https://user-images.githubusercontent.com/130365689/271838718-b0012ea2-b45c-42ab-9496-94c7245af18b.png" title="Audition Assistant" alt="Audition Assistant" width="120" height="120"/>
   </a>
     <p>Python, Django, PostGreSQL, React</p>
